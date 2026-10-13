@@ -57,7 +57,7 @@ SmartCollab은 다음과 같은 핵심 기능들을 제공합니다.
 
 ---
 
-## 🛠️ 기술 스택
+##  기술 스택
 
 ### Backend
 * Framework: Spring Boot 3.2.5, Spring Data JPA, Spring Security, Spring WebSocket 
@@ -112,7 +112,7 @@ SmartCollab은 다음과 같은 핵심 기능들을 제공합니다.
 
 ---
 
-## 📖 API 엔드포인트 요약
+##  API 엔드포인트 요약
 
 | 기능 분류 | Method | 경로 | 설명 |
 |---|---|---|---|
